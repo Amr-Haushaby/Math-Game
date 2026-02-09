@@ -15,14 +15,6 @@ This project is part of the **AbouHadhood Platform** training track with Dr. Moh
 
 ---
 
-## 🛠 Built With
-- **C++**
-- `<iostream>`
-- `<cstdlib>` (random number generation)
-- `<ctime>` (random seed)
-
----
-
 ## 🎯 Game Features
 - Multiple math operations (Add, Subtract, Multiply, Divide)
 - Random questions every round
